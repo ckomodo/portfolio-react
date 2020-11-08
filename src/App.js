@@ -2,10 +2,13 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./components/pages/Home/index";
 import Navbar from "./components/Navbar/index"
 import Contact from "./components/pages/Contact/index"
+import "./App.css"
 
 function App() {
   return (
+    <div className = "App">
     <Router>
+    
       <Navbar />
       <Switch>
         <Route exact path="/home">
@@ -23,6 +26,7 @@ function App() {
         </Route>
       </Switch>
     </Router>
+    </div>
   );
 }
 
