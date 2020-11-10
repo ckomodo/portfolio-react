@@ -1,4 +1,23 @@
-.Home{
-    background-color: salmon;
+/* *{
+    font-family: 'Lato', Arial, sans-serif;
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+.body{
+
+    font-size: 20px;
+    background: linear-gradient(-75deg,#ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400%, 400%;
+    border: 3px solid honeydew;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkbSId-JoSJUM6q9thBk0LSuOJXS04VDF_UA&usqp=CAU");
+    
+}
+
+h1 {
+    color: rgb(222, 236, 222);
+    font-size: 1.8rem;
+    margin-left: 40%;
+    margin-top: 1.5%; 
+    padding: 0.5rem;
+} */

@@ -1,3 +1,24 @@
-.App {
-    background-image: url("https://c0.wallpaperflare.com/preview/900/181/315/black-and-white-cassette-tape-classic-grayscale.jpg");
+/* *{
+    
+    font-family: 'Lato', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+.App{
+    font-size: 20px;
+    background: linear-gradient(-75deg,#ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400%, 400%;
+    border: 3px solid honeydew;
+    
+}
+
+h1 {
+    color: rgb(222, 236, 222);
+    font-size: 1.8rem;
+    margin-left: 40%;
+    margin-top: 1.5%; 
+    padding: 0.5rem;
+}
+ */

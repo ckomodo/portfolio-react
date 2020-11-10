@@ -1,7 +1,9 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./components/pages/Home/index";
 import Navbar from "./components/Navbar/index"
+import Portfolio from "./components/pages/Portfolio"
 import Contact from "./components/pages/Contact/index"
+import Jumbotron from "react-bootstrap/Jumbotron";
 import "./App.css"
 
 function App() {
@@ -12,6 +14,11 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/home">
+        <Jumbotron className="Jumbotron">
+          <h1>chris sakwa wesonga</h1>
+          <p>full stack web developer</p>
+          <hr />
+        </Jumbotron>
           <Home />
         </Route>
         <Route exact path="/contact">
@@ -19,9 +26,14 @@ function App() {
           <Contact />
         </Route>
         <Route exact path="/portfolio">
-          <h1>Portfolio page</h1>
+          <Portfolio />
         </Route>
         <Route exact path="/">
+        <Jumbotron className="Jumbotron">
+        <h1>chris sakwa wesonga</h1>
+          <p>full stack web developer</p>
+          <hr />
+        </Jumbotron>
         <Home />
         </Route>
       </Switch>
