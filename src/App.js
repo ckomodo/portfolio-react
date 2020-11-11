@@ -1,8 +1,9 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./components/pages/Home/index";
-import Navbar from "./components/Navbar/index"
 import Portfolio from "./components/pages/Portfolio"
 import Contact from "./components/pages/Contact/index"
+import Navbar from "./components/Navbar/index"
+import Footer from "./components/Footer/index"
 import Jumbotron from "react-bootstrap/Jumbotron";
 import "./App.css"
 
@@ -37,6 +38,7 @@ function App() {
         <Home />
         </Route>
       </Switch>
+<Footer />
     </Router>
     </div>
   );
