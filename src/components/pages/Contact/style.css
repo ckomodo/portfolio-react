@@ -1,0 +1,15 @@
+.contactBg{
+    background: url("./oriental-tiles.png") repeat;
+    height: 100vh;
+  
+
+}
+
+
+.textAreaPos{
+
+    margin: 5%;
+    float: center;
+    border: 3px solid honeydew;
+    padding: 0.5%;
+}

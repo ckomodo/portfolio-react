@@ -1,3 +1,20 @@
+.homeBg{
+background: url("oriental-tiles.png");
+height: 100vh;
+}
+
+.textColor{
+    color: honeydew;
+}
+
+.containerStyle{
+    color: rgb(30, 128, 30);
+    border: 3px solid yellow;
+    background: rgb(230, 230, 218);
+    padding: 1%;
+}
+
+
 /* *{
     font-family: 'Lato', Arial, sans-serif;
     margin: 0;
