@@ -1,0 +1,52 @@
+[
+    
+    {
+        "image": "/images/Ven-U.png",
+        "title": "VenU",
+        "description": "A music-discovery website for fans of live music. Watch live concerts of your favorite artists.", 
+        "GithubRepo": "https://github.com/ckomodo/garden-share",
+        "DeployedSite": "https://ajm5099.github.io/Music-Discovery"
+
+    },
+    {
+        "image": "/images/patchedapp-homepage.png",
+        "title": "Patched",
+        "description": "Share and cultivating open spaces and gardens, inspired by Seattle's P-Patch program.", 
+        "GithubRepo": "https://github.com/ckomodo/garden-share",
+        "DeployedSite": "https://patchedapp.herokuapp.com/"
+
+    },
+    {
+        "image": "/images/passwordGeneratorHomepage.png",
+        "title": "Password Generator",
+        "description": "Generate a random password of desired length and characters.",
+        "GithubRepo": "https://github.com/ckomodo/password-generator",
+        "DeployedSite": "https://ckomodo.github.io/password-generator/"
+
+    },
+    {
+        "image": "/images/dayPlanner.png",
+        "title": "Day Planner App",
+        "description": "A quick and convenient way to schedule your day.",
+        "GithubRepo": "https://github.com/ckomodo/day-planner-app",
+        "DeployedSite": "https://ckomodo.github.io/day-planner-app/"
+
+    },
+    {
+        "image": "/images/employeeDirectory.png",
+        "title": "Employee Directory",
+        "description": "Search for any employee in a list of 200 staff members.",
+        "GithubRepo": "https://github.com/ckomodo/employee-directory",
+        "DeployedSite": "https://the-money-makers.herokuapp.com/"
+
+    },
+    {
+        "image": "/images/note taker.png",
+        "title": "Note Taker",
+        "description": "Search for any employee in a list of 200 staff members.",
+        "GithubRepo": "https://github.com/ckomodo/Note-Taker",
+        "DeployedSite": "https://hidden-tor-41597.herokuapp.com/"
+
+    }
+
+]
