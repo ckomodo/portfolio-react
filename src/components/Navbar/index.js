@@ -18,24 +18,24 @@ export default function Navbar() {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-          <a class="navbar-brand" href="#"></a>
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item active">
-              <a class="nav-link" href="#"
+              <a class="nav-link" href="/home"
                 >Home <span class="sr-only">(current)</span></a
               >
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#"
+              <a class="nav-link" href="/contact"
                 >Contact <span class="sr-only">(current)</span></a
               >
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#"
+              <a class="nav-link" href="/portfolio"
                 >Portfolio <span class="sr-only">(current)</span></a
               >
             </li>
           </ul>
+          <a class="navbar-brand ml-auto" href="/">chris s. wesonga, full stack web developer</a>
         </div>
       </nav>
     </div>

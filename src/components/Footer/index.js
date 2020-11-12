@@ -5,8 +5,13 @@ import Card from 'react-bootstrap/Card'
 export default function index() {
     return (
         <div>
-<Card>
-  <Card.Footer ><img class="image" src="images/smallLogo.png" />chris sakwa wesonga© 2020</Card.Footer>
+<Card className="footer">
+  <Card.Footer>
+    <a href="https://www.linkedin.com/in/christopher-sakwa-410b341a/">Linked In</a> || 
+    <a href="https://github.com/ckomodo">Github</a>||
+    <a href="mailto:chrissakwa@gmail.com">Email</a> ||
+    <a href="https://drive.google.com/file/d/1oo42aLDgzLbCdErOClARoPh7MD6cfNi5/view?usp=sharing">Resume</a>
+    </Card.Footer>
 </Card>
         </div>
     )

@@ -1,33 +1,52 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faBlog,
+  faEnvelope,
+  faMobile,
+} from "@fortawesome/free-solid-svg-icons";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+// import "./style.css";
+// import Background from "/Background";
 
 // import Button from 'react-bootstrap/Button'
 // import Form from 'react-bootstrap/Form'
 
 export default function Contact() {
   return (
-    <div className="contactBg">
-      <p>please keep in touch with me through any of the following ways</p>
-      <p> Email: chrissakwa@gmail.com</p>
-      <p>
-        <a href="https://github.com/ckomodo">Github profile</a>
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/christopher-sakwa-410b341a/">
-          LinkedIn
-        </a>
-      </p>
-      <p>
-        Twitter: <a href="https://twitter.com/slimsakwa">@slimsakwa</a>
-      </p>
-      <p>
-        Read my <a href="https://chrissakwa.wordpress.com">Blog</a>
-      </p>
-      {/* <textarea rows="10" cols="100" style={{backgroundColor: 'yellow'}} class="textAreaPos">
-        
-        {/* <img src="./Home/FullSizeRender2.jpeg" alt="profile" /> */}
-        
-        
-      {/* </textarea> */} */}
+    <div>
+      <div className="container containerStyle">
+        <div className="row">
+          <div className="col">
+            <p></p>
+            <p>
+              {" "}
+              <FontAwesomeIcon icon={faEnvelope} />
+              Email: chrissakwa@gmail.com
+            </p>
+            <p>
+              {/* <img src="./images/github-mark.png" /> */}
+              <FontAwesomeIcon icon={faGithub} />
+              <a href="https://github.com/ckomodo">Github profile</a>
+            </p>
+            <p>
+              <FontAwesomeIcon icon={faLinkedin} />
+              <a href="https://www.linkedin.com/in/christopher-sakwa-410b341a/">
+                LinkedIn
+              </a>
+            </p>
+            <p>
+              {" "}
+              <FontAwesomeIcon icon={faBlog} />
+              {/* <i class="fab fa-wordpress"></i> */}
+              <a href="https://chrissakwa.wordpress.com">Blog</a>
+            </p>
+            <p>
+            <FontAwesomeIcon icon={faMobile} />
+            484 597 2763</p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

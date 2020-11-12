@@ -5,7 +5,13 @@
 .marginBottom{
     margin-bottom: 7.5%
 }
-
+.marginBttmNoteTaker{
+    margin-bottom: -6%;
+}
+.buttonRepo{
+    color: blue;
+    border: 1px solid teal;
+}
 a:hover{
 color: red
 }
