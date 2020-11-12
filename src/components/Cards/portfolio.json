@@ -43,7 +43,7 @@
     {
         "image": "/images/note taker.png",
         "title": "Note Taker",
-        "description": "Search for any employee in a list of 200 staff members.",
+        "description": "People forget, apps don't. Write and save your notes and ideas here.",
         "GithubRepo": "https://github.com/ckomodo/Note-Taker",
         "DeployedSite": "https://hidden-tor-41597.herokuapp.com/"
 
