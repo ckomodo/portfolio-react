@@ -2,7 +2,8 @@
     /* background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
   } */
     background: url("./oriental-tiles.png") repeat;
-    height: 100vh;
+    /* we use min-height instead of height because we want the height to be able to stretch as the screen size gets smaller because as the screen size gets smaller the cards drop down and the length of the portfolio page gets longer */
+    min-height: 100vh;
     
     /* background-size: cover; */
   
