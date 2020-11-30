@@ -22,7 +22,7 @@ export default function Contact() {
             <p>
               {" "}
               <FontAwesomeIcon icon={faEnvelope} />
-              Email: chrissakwa@gmail.com
+              chrissakwa@gmail.com
             </p>
             <p>
               {/* <img src="./images/github-mark.png" /> */}
@@ -42,8 +42,9 @@ export default function Contact() {
               <a href="https://chrissakwa.wordpress.com">Blog</a>
             </p>
             <p>
-            <FontAwesomeIcon icon={faMobile} />
-            484 597 2763</p>
+              <FontAwesomeIcon icon={faMobile} />
+              484 597 2763
+            </p>
           </div>
         </div>
       </div>
