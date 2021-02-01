@@ -23,8 +23,7 @@ export default function Home() {
               </Card.Body> */}
             </Card>
             <p>
-              Full stack web developer with skills in HTML, CSS, Handlebars,
-              JavaScript, JQuery, NodeJS and MySQL. I earned a certificate in
+              Full stack web developer with skills in HTML, CSS, JavaScript, React, NodeJS, Mongo and MySQL. I earned a certificate in
               Web Development from the University of Washington Coding Bootcamp
               in 2020.
             </p>
