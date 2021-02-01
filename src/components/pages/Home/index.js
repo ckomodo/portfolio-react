@@ -23,20 +23,26 @@ export default function Home() {
               </Card.Body> */}
             </Card>
             <p>
-              Full Stack Software Developer based in Seattle, WA. Currently
-              looking for position as a developer, intern or apprentice. I am a
-              passionate about web development and have skills in Javascript,
-              JQuery, Bootstrap, ReactJS, MongoDB, MySQL, Handlebars, CSS and
-              HTML. Creating value in places I occupy and forming genuine
-              relationships with people I come across is something I embrace
-              every single day, and these enhance my skills to be a better
-              developer.
+              Full stack web developer with skills in HTML, CSS, Handlebars,
+              JavaScript, JQuery, NodeJS and MySQL. I earned a certificate in
+              Web Development from the University of Washington Coding Bootcamp
+              in 2020.
             </p>
             <p>
-              When I'm not coding, catch me doing burpees, exploring Seattle,
-              writing poetry, playing the Nyatiti or making a new music
-              playlist. Thank you for visiting my page, I hope we get to work
-              together soon.
+              My work experience involves roles in different industries
+              including technology, tourism, non-profit and healthcare. Working
+              in vastly unrelated fields, I learned that my greatest strength is
+              being able to adapt easily to new environments. I embody new roles
+              and responsibilities with a positive mindset while remaining
+              focused on the bigger picture. The bootcamp was the hardest class
+              I have ever taken yet, and it showed that I am a quick learner who
+              embraces new challenges.
+            </p>
+            <p>
+              I am seeking a role as a junior developer, intern or apprentice
+              where I can be of value to the whole team. I enjoy coding websites
+              and apps and learning all the different things I can do with
+              JavaScript.
             </p>
           </div>
         </div>
