@@ -11,7 +11,7 @@ export default function index() {
     <a href="https://www.linkedin.com/in/christopher-s-wesonga-410b341a/">Linked In</a> || 
     <a href="https://github.com/ckomodo">Github</a>||
     <a href="mailto:chrissakwa@gmail.com">Email</a> ||
-    <a href="https://drive.google.com/file/d/1oo42aLDgzLbCdErOClARoPh7MD6cfNi5/view?usp=sharing">Resume</a>
+    <a href="https://drive.google.com/file/d/1kJVQ2FksXWJmhBLGqYI8Dusk6M298zUA/view?usp=sharing">Resume</a>
     </Card.Footer>
 </Card>
         </div>
